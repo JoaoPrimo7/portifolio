@@ -1,0 +1,57 @@
+
+header{
+  display: flex;
+  justify-content: flex-end;
+  padding: 30px;
+  
+ 
+ }
+  img{
+  width: 309px;
+  height: 438px;
+  padding: 40px;
+  border-radius: 190px;
+}
+
+body{
+  background-color: #f7f7f7;
+  color: #1a2f68;
+}
+h1{
+    display: flex;
+    justify-content: flex-start; 
+    padding: 10px;
+}
+
+h2{
+    display: flex;
+    justify-content: flex-start; 
+    padding: 10px;
+    
+}
+ .comeco p{
+    
+    justify-content: flex-start; 
+    padding: 10px;
+    font-family: 'Outfit';
+    color: #000000;
+    font-size: 28px;
+    position: relative;
+    top: -90px;
+}
+
+footer{
+    background-color: rgb(19, 69, 149);
+    color: #f7f7f7;
+    display: flex;
+  justify-content: flex-end;
+}
+
+.segundaParte p{
+    font-size: 28px;
+    padding: 10px;
+}
+
+ul{
+    font-size: 28px;
+}
