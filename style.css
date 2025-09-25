@@ -3,7 +3,8 @@ header{
   display: flex;
   justify-content: flex-end;
   padding: 30px;
-  
+   background-color: rgb(19, 69, 149);
+    
  
  }
   img{
@@ -14,7 +15,7 @@ header{
 }
 
 body{
-  background-color: #f7f7f7;
+  background-color: #F5CCCC;
   color: #1a2f68;
 }
 h1{
