@@ -3,7 +3,7 @@ header{
   display: flex;
   justify-content: flex-end;
   padding: 30px;
-   background-color: rgb(19, 69, 149);
+   background-color: #ffebeb;
     
  
  }
@@ -15,7 +15,7 @@ header{
 }
 
 body{
-  background-color: #F5CCCC;
+  background-color: #f7d4ec;
   color: #1a2f68;
 }
 h1{
@@ -42,7 +42,7 @@ h2{
 }
 
 footer{
-    background-color: rgb(19, 69, 149);
+    background-color: #ffebeb
     color: #f7f7f7;
     display: flex;
   justify-content: flex-end;
